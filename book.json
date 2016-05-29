@@ -1,0 +1,12 @@
+{
+	"gitbook": "2.6.7",
+	"title": "Learn Angular 2",
+	"description": "Learn & implement ES6, ES7 today with Angular 2",
+	"language": "en",
+	"plugins": ["addcssjs", "expandable-chapters"],
+    "pluginsConfig": {
+        "addcssjs": {
+            "css": ["css/bootstrap.css", "css/main.css"]
+        }
+    }
+}
